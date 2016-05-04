@@ -1,0 +1,23 @@
+﻿$color_base: #6043a9;
+$color_titulo: darken ($color_base, 40%);
+$color_subtitulo: invert(lighten($color_base, 40%));
+
+$altura_base: 10px;
+$altura_titulo: $altura_base /2;
+$altura_subtitulo: $altura_base /3;
+
+
+
+h1{
+    color: $color_titulo;
+    font-size: medium;
+}
+
+h2 {
+    color: $color_subtitulo;
+    font-size: $altura_base;
+}
+
+p {
+    font-size: $altura_base;
+}

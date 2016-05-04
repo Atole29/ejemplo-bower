@@ -1,11 +1,11 @@
-﻿body {
-  margin: 0;
-  padding: 0; }
-
-h1 {
-  color: darken #red 40%;
+﻿h1 {
+  color: darken #6043a9, 40%;
   font-size: medium; }
 
 h2 {
-    color: AppWorkspace;
-}
+  color: #2a3214;
+  font-size: 10px; }
+
+p {
+  font-size: 10px; }
+
