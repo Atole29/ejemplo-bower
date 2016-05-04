@@ -1,0 +1,11 @@
+﻿body {
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: darken #red 40%;
+  font-size: medium; }
+
+h2 {
+    color: AppWorkspace;
+}
